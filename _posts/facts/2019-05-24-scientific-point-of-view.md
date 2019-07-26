@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 subheadline: "Science - It works!"
 title: "Wieso Netto Null? Die Klimakrise aus Naturwissenschaftlicher Perspektive"
 teaser: "Mehr als 26000 Wissenschaftler\*innen aus dem deutschsprachigen Raum geben der Klimastreikbewegung Recht. Warum? Die zentralen Konzepte und Erkenntnisse in Kurzform."
