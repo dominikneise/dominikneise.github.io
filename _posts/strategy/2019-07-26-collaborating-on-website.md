@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title: "netto.null Website Vorschlag"
-subheadline: "Let's collaborate! \o/"
+subheadline: "Lets collaborate"
 teaser: "Es gibt nicht nut Google Docs"
 categories:
     - strategy
@@ -63,10 +63,7 @@ Des weiteren bin ich Ansicht, dass es wundervoll ist, wenn ein Artikel aus der n
 
 ## Wie geht das hier nun?
 
-Das zeige ich vielleicht am besten in einem Video, stay tuned ...
-
-
-lalal öfkj  die Welt ist schön 
+Das zeige ich vielleicht am besten in einem [Video](https://youtu.be/WKDhipBzKVk)
 
 
 [1]: https://github.com/orbiting/docs/blob/dbbd0dc5a26d9cf501c1c57e2bed143f3d3e21f6/concept/cms/plan.md#collaborating-on-documents
