@@ -34,3 +34,9 @@ es.
 ### Was sind «Rückkopplungseffekte» und «tipping points»?
 
 ... mehr in der print-Ausgabe ...
+
+
+### All Header-Styles
+{: .t60 }
+
+{% include list-posts tag='header' %}
