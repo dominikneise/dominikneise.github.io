@@ -13,9 +13,9 @@ widget1:
   image: planet_over_profit_small.jpg
   text: 'Schau dir unsere Zeitung an. Die Welt zählt auf Dich!'
 widget2:
-  title: "Klimafakten und die Schweiz"
-  url: 'http://dominikneise.github.io/info/'
-  text: 'Hier findest du die wichtigsten Fakten.'
+  title: "Wieso Netto Null?"
+  url: 'https://dominikneise.github.io/facts/scientific-point-of-view/'
+  text: 'Die Klimakrise aus Naturwissenschaftlicher Perspektive'
   image: https://www.leopoldina.org/typo3temp/assets/_processed_/f/f/csm_2019_Klimaziele_2030_Cover_a19e9495eb.jpg
 widget3:
   title: "Mach Mit"
