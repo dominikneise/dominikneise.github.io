@@ -59,17 +59,17 @@
 #   - title: "Roadmap"
 #     url: "/roadmap/"
 
-- title: Blog
+- title: Artikel
   url: "/blog/"
   side: left
   dropdown:
-  - title: "Blog Archive"
+  - title: "Artikel Archiv"
     url: "/blog/archive/"
 
-- title: "Search"
+- title: "Suche"
   url: "/search/"
   side: right
 
-- title: "Contact"
+- title: "Mitmachen"
   url: "/contact/"
   side: right
