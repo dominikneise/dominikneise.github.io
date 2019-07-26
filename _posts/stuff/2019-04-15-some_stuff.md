@@ -11,7 +11,7 @@ image:
     thumb:
     homepage:
 categories:
-    - design
+    - stuff
 comments: false
 show_meta: false
 ---
