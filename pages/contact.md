@@ -1,12 +1,17 @@
 ---
 layout: page
 title: "Contact"
-meta_title: "Contact and use our contact form"
-subheadline: "Wufoo-powered contact forms"
-teaser: "Get in touch with me? Use the contact form."
+meta_title: "Mitmachen"
+subheadline: ""
+teaser: "Mitmachen ist einfach!"
 permalink: "/contact/"
 ---
-If you need a fabulous contact form for your website, I suggest you use [Wufoo][1]. You can use three forms for free, you get no spam and if you get more than 100 entries you have to pay.
 
+Um bei der netto.null mit zu machen, brauchst du nichts weiter als einen [github
+ account](https://github.com/join) und etwas Zeit.
 
- [1]: http://www.wufoo.com/
+Alle Menschen können uns helfen diese Zeitschrift weiter zu entwickeln und besser zu machen.
+Keine Ahnung wie? Keine Idee für einen Artikel? Kein Problem!
+
+Wir können immer ein paar Augen gebrauche, die Artikel gegen lesen, an denen gerade gearbeitet wird. Schau Dir einfach die offenen [pull requests] an ... lies den Artikel und diskutieren mit!
+Du bist herzlich willkommen!
